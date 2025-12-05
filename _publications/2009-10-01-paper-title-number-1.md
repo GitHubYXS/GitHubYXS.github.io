@@ -1,6 +1,6 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
+title: "基于多视角融合的红外-宽宽波雷达移动目标跟踪"
+collection: 发表于杂志软件, 2023
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
